@@ -1,0 +1,9 @@
+C:\Users\Učenik 4\source\repos\combobox\combobox\bin\Debug\combobox.exe.config
+C:\Users\Učenik 4\source\repos\combobox\combobox\bin\Debug\combobox.exe
+C:\Users\Učenik 4\source\repos\combobox\combobox\bin\Debug\combobox.pdb
+C:\Users\Učenik 4\source\repos\combobox\combobox\obj\Debug\combobox.csprojAssemblyReference.cache
+C:\Users\Učenik 4\source\repos\combobox\combobox\obj\Debug\combobox.Combobox.resources
+C:\Users\Učenik 4\source\repos\combobox\combobox\obj\Debug\combobox.Properties.Resources.resources
+C:\Users\Učenik 4\source\repos\combobox\combobox\obj\Debug\combobox.csproj.GenerateResource.cache
+C:\Users\Učenik 4\source\repos\combobox\combobox\obj\Debug\combobox.exe
+C:\Users\Učenik 4\source\repos\combobox\combobox\obj\Debug\combobox.pdb
